@@ -1,0 +1,10 @@
+
+client-cert.pem
+client-key.pem
+config.ini
+libmysql.dll
+marker.png
+qsqlmysql.dll
+qsqlmysqld.dll
+SandMap.pro.user
+server-ca.pem
