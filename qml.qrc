@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>VialMarker.qml</file>
+        <file>VialForm.qml</file>
+        <file>VialMarker_Infobox.qml</file>
+    </qresource>
+</RCC>
